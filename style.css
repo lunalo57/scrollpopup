@@ -98,6 +98,7 @@ p::first-letter {
   transform: translateX(-200px);
   transition: 1s ease-in;
 }
+
 .overcome {
   padding: 2rem;
   background: rgba(52, 187, 255, 0.287);
@@ -138,6 +139,7 @@ p::first-letter {
   transform: translateX(400px);
   transition: 1s ease-out;
 }
+
 .pop-up-container {
   width: 100%;
   position: absolute;
